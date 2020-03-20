@@ -1,2 +1,3 @@
 # FirstProgramm
-Programm to learn
+Programm to 
+sohail nawaz
